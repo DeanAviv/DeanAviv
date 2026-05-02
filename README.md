@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **Unity editor tool projects, game systems and sensor based game mechanics.**
 
-- 👨‍💻 All of my projects are available at [deanaviv.com]((https://dean-aviv.com/))
+- 👨‍💻 All of my projects are available at [deanaviv.com](https://dean-aviv.com/)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@deanaviv5)
 
